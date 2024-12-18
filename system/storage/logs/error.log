@@ -1,0 +1,46 @@
+2024-11-06 03:01:41 - 0:  Invalid or uninitialized Zip object
+File: C:\xampp2\htdocs\opencart\upload\admin\controller\marketplace\installer.php
+Line: 245
+
+2024-12-17 09:35:20 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 29
+2024-12-17 09:37:47 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:37:48 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:37:49 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:38:52 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:40:44 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:40:45 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:40:45 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:40:46 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:40:46 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:40:46 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:40:47 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:40:47 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:40:48 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:40:48 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:40:48 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:40:48 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:40:48 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:40:49 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:40:49 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:40:49 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:40:49 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:40:49 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:40:49 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:40:50 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:40:50 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:42:46 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:42:47 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:43:22 - Call to undefined function Opencart\System\Library\DB\pg_connect(): in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:46:10 - PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: ERROR:  Endpoint ID is not specified. Either please upgrade the postgres client library (libpq) for SNI support or pass the endpoint ID (first part of the domain name) as a parameter: '?options=endpoint%3D&lt;endpoint-id&gt;'. See more at https://neon.tech/sni
+ERROR:  connection is insecure (try using `sslmode=require`) in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:46:10 - Typed property Opencart\System\Library\DB\PgSQL::$connection must not be accessed before initialization: in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 97
+2024-12-17 09:47:27 - PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: ERROR:  Endpoint ID is not specified. Either please upgrade the postgres client library (libpq) for SNI support or pass the endpoint ID (first part of the domain name) as a parameter: '?options=endpoint%3D&lt;endpoint-id&gt;'. See more at https://neon.tech/sni in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:47:27 - Typed property Opencart\System\Library\DB\PgSQL::$connection must not be accessed before initialization: in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 97
+2024-12-17 09:49:02 - PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;?options&quot; in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:49:02 - Typed property Opencart\System\Library\DB\PgSQL::$connection must not be accessed before initialization: in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 97
+2024-12-17 09:49:03 - PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: invalid connection option &quot;?options&quot; in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:49:03 - Typed property Opencart\System\Library\DB\PgSQL::$connection must not be accessed before initialization: in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 97
+2024-12-17 09:50:32 - PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: ERROR:  Endpoint ID is not specified. Either please upgrade the postgres client library (libpq) for SNI support or pass the endpoint ID (first part of the domain name) as a parameter: '?options=endpoint%3D&lt;endpoint-id&gt;'. See more at https://neon.tech/sni in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:50:32 - Typed property Opencart\System\Library\DB\PgSQL::$connection must not be accessed before initialization: in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 97
+2024-12-17 09:51:49 - PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: ERROR:  Endpoint ID is not specified. Either please upgrade the postgres client library (libpq) for SNI support or pass the endpoint ID (first part of the domain name) as a parameter: '?options=endpoint%3D&lt;endpoint-id&gt;'. See more at https://neon.tech/sni in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 33
+2024-12-17 09:51:49 - Typed property Opencart\System\Library\DB\PgSQL::$connection must not be accessed before initialization: in C:\xampp2\htdocs\opencart\upload\system\library\db\pgsql.php on line 97
